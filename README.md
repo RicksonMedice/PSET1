@@ -1,18 +1,23 @@
 # PSET 01
 
 
-# Sobre o PSET
-Pset realizado pela tumar CC1MC no primeiro bimestre, desenvolvido pelo Professor Abrantes Araujo Silva Filho da UVV.
-O trabalho foi dividido em partes. Script para rodar no postgresql, criação das tabelas no Power Architect e a parte discursiva.
+# Sobre.
+- Pset realizado pela tumar CC1MC no primeiro bimestre, desenvolvido pelo professor Abrantes da UVV.
+O trabalho foi dividido em três grandes partes. O Script para rodar no postgresql, criação das tabelas no Power Architect e a parte discursiva.
 
 
-# Arquivos do trabalho
+# Arquivos.
+- cc1mc_202307669_postgresql.sql
+- cc1mc_202307669_postgresql.architect.pdf
+- cc1mc_202307669_postgresql.architect
 
 
 
-# Informações
-Aluno: Rickson Medice Tomé
-Matrícula: 202307669
+# Informações.
+- Aluno: Rickson Medice Tomé
+- Matrícula: 202307669
+- Professor: Abrantes Araújo Silva Filho.
+- Monitora: Suellen Miranda Amorim.
 
 
 
