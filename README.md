@@ -13,7 +13,7 @@ O trabalho foi dividido em três grandes partes. O Script para rodar no postgres
 
 
 
-# Informações
+# Dados
 - Aluno: Rickson Medice Tomé
 - Matrícula: 202307669
 - Professor: Abrantes Araújo Silva Filho
